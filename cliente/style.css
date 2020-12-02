@@ -1,0 +1,49 @@
+@font-face{
+    text-decoration: rgb(62, 62, 156);
+    font-size: x-large; 
+    font-family: 'satisfy';
+    src: url ('/home/devel/Nextcloud/Chat básico/Satisfy');
+}
+h1{
+    text-align: center;
+    color:lightseagreen;
+    font-family: 'satisfy';
+    font-size: xx-large;
+    text-shadow: 4px 4px 4px rgb(7, 87, 114);
+    text-underline-position: auto;
+}
+textarea{
+    position: sticky;
+    font-family: 'satisfy';
+    text-align: center;
+    color:rgb(7, 87, 114);
+    border-style: groove;
+    border-radius: 20px;
+    border-color: rgb(4, 153, 138);
+    border-width: 10px;
+       
+}
+
+button {
+    text-align: center;
+    font-style: oblique;
+    font-family:'satisfy';
+    display: inline-block;
+    border-radius: 70%;
+    text-shadow:10px 10px 10px rgb(67, 202, 134);
+    background: lightseagreen;
+    text-decoration-color:darkseagreen;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(70, 110, 90);
+}
+div#listado{
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    font-family: 'satisfy';
+    color: darkseagreen;
+}
+p{
+    position: left;
+}
